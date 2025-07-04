@@ -185,6 +185,7 @@
             this.btnadd.TabIndex = 14;
             this.btnadd.Text = "EKLE";
             this.btnadd.UseVisualStyleBackColor = true;
+            this.btnadd.Click += new System.EventHandler(this.btnadd_Click);
             // 
             // btnUpdate
             // 
